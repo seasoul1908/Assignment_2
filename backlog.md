@@ -1,5 +1,6 @@
-* **US-101**: As a User, I want to log in with my email and password, so that I can access my personalized dashboard.
-* **US-102**: As a New User, I want to register for a new account with email verification, so that I can securely use the platform.
-* **US-103**: As a User, I want to reset my password via a secure email link, so that I can regain access to my account if I forget it.
-* **US-104**: As an Administrator, I want to view a list of all registered users and change their account status, so that I can manage platform users effectively.
-* **US-105**: As a Premium User, I want to customize my dashboard layout and theme, so that I can optimize my personal workspace.
+- **US-101**: As a User, I want to log in with my email and password, so that I can access my personalized dashboard.
+- **US-102**: As a New User, I want to register for a new account with email verification, so that I can securely use the platform.
+- **US-103**: As a User, I want to reset my password via a secure email link, so that I can regain access to my account if I forget it.
+- #### UserStory about admin can view userss...
+- **US-104**: As an Administrator, I want to view a list of all registered users and change their account status, so that I can manage platform users effectively.
+- **US-105**: As a Premium User, I want to customize my dashboard layout and theme, so that I can optimize my personal workspace.
